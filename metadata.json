@@ -1,0 +1,5 @@
+{
+  "name": "InstaClone Login",
+  "description": "A visually faithful clone of the Instagram login page. It captures login credentials and simulates sending them as an OTP-style email for personal use, while always showing a login error to the user.",
+  "requestFramePermissions": []
+}
